@@ -33,6 +33,12 @@ Starts screen
 ![Stats Page](https://user-images.githubusercontent.com/93499411/152198261-377be036-b3de-4025-8372-5528dad96bcb.png)
 
 
+User
+
+![Screen Shot 2022-02-02 at 9 55 50 AM](https://user-images.githubusercontent.com/93499411/152200247-ff54430f-74b7-4284-9839-68889203f564.png)
+
+
+
 Multiplayer
 
 You can battle vs someone else counting cards. 
