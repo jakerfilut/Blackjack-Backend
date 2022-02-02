@@ -35,7 +35,7 @@ Starts screen
 
 User
 
-![Screen Shot 2022-02-02 at 9 55 50 AM](https://user-images.githubusercontent.com/93499411/152200247-ff54430f-74b7-4284-9839-68889203f564.png)
+![Screen Shot 2022-02-02 at 9 57 34 AM](https://user-images.githubusercontent.com/93499411/152200625-7ba58861-a24d-4fac-87eb-899f1b22f0fa.png)
 
 
 
