@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  password_digest: MyString
+  email: MyString
+  bankroll: MyString
+  games_played: 1
+  current_shoe_hand: 1
+  perfect_strategy_correct: MyString
+  count_correct: MyString
+  bet_spread_correct: MyString
+
+two:
+  username: MyString
+  password_digest: MyString
+  email: MyString
+  bankroll: MyString
+  games_played: 1
+  current_shoe_hand: 1
+  perfect_strategy_correct: MyString
+  count_correct: MyString
+  bet_spread_correct: MyString
